@@ -9,3 +9,8 @@ for a in fo1:
     if len(a.strip().split(" ")) <= 120 and len(b.strip().split(" ")) <= 120:
         fout1.write(a)
         fout2.write(b)
+
+fo1.close()
+fo2.close()
+fout1.close()
+fout2.close()
