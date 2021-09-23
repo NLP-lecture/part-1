@@ -94,4 +94,16 @@ wc -l $src_after
 wc -l $tgt_after
 
 
+echo -e "\n\n\n### STEP-10 remove_blank_line.py ###"
+src_before=$src_after
+tgt_before=$tgt_after
+src_after=$src_before.rmbk
+tgt_after=$tgt_before.rmbk
+python remove_blank.py $src_before $tgt_before $src_after $tgt_after
+wc -l $src_after
+wc -l $tgt_after
+
+
 echo -e "\n\n\n### FINISH !!! ###"
+cp $src_after $srcfile.result
+cp $tgt_after $tgtfile.result
