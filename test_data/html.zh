@@ -1,0 +1,42 @@
+<div id="main_left">
+        <div id="item_div" class="card" style="position: relative">
+            <div style="display: none" id="zs_zhushi">【1】汪伦：李白的朋友。<br>【2】将欲行：敦煌写本《唐人选唐诗》作“欲远行”。<br>【3】踏歌：唐代民间流行的一种手拉手、两足踏地为节拍的歌舞形式，可以边走边唱。<br>【4】桃花潭：在今安徽泾县西南一百里。《一统志》谓其深不可测。<br>【5】深千尺：诗人用潭水深千尺比喻汪伦与他的友情，运用了夸张的手法。<br>【6】不及：不如。</div>
+                        <img src="/pics/item/3060.jpg">
+                        <h1 id="zs_title"><div><span>赠</span><span style="border-bottom: 1px solid #999;margin: 0 1px;" class="zhushi_word">汪伦</span><span></span></div></h1>
+            <div class="niandai_zuozhe"> [唐] <a href="/chaxun/zuozhe/1.html">李白</a></div>
+                        <div class="item_content" id="zs_content"><div><span>李白乘舟</span><span style="border-bottom: 1px solid #999;margin: 0 1px;" class="zhushi_word">将欲行</span><span>，忽闻岸上</span><span style="border-bottom: 1px solid #999;margin: 0 1px;" class="zhushi_word">踏歌</span><span>声。</span></div><div><span></span><span style="border-bottom: 1px solid #999;margin: 0 1px;" class="zhushi_word">桃花潭</span><span>水</span><span style="border-bottom: 1px solid #999;margin: 0 1px;" class="zhushi_word">深千尺</span><span>，</span><span style="border-bottom: 1px solid #999;margin: 0 1px;" class="zhushi_word">不及</span><span style="border-bottom: 1px solid #999;margin: 0 1px;" class="zhushi_word">汪伦</span><span>送我情。</span></div></div>
+            <div id="zhushi_main" style="display: none;max-width:600px;left:0;top:0;text-align:left;z-index:100000;color:white;position: absolute;">
+                <div style="width:0;height:0;overflow:hidden;border-width:8px;border-color: transparent transparent #000000 transparent;border-style:solid dashed dashed dashed;margin-left: 10px;"></div>
+                <div id="zhushi_key" style="font-weight: bold;background: #000000;padding: 5px 5px 0 5px; border-radius:2px 2px 0 0; "></div>
+                <div id="zhushi_val" style="font-weight: normal;background: #000000;padding: 5px 5px 5px 5px; border-radius: 0 0 2px 2px;"></div>
+            </div>
+                        <div class="shici-mark">
+                分类标签:
+                                <a href="/shicimark/sonbieshi.html" target="_blank">送别诗</a>
+                                <a href="/shicimark/youqingshi.html" target="_blank">友情诗</a>
+                                <a href="/shicimark/xiaoxue.html" target="_blank">小学</a>
+                            </div>
+                    </div>
+                <div id="item_shangxi" class="card">
+            <div class="item_title">
+                作品赏析
+            </div>
+            <div class="shangxi_content">
+                【注释】：<br>诗人用潭水深千尺比喻汪伦与他的友情，运用了夸张的手法（潭深千尺不是实有其事）写深情厚谊，十分动人。这首诗体现了浪漫主义诗人<a href="/chaxun/zuozhe/1.html" target="_blank">李白</a>想落天外的诗歌特色。<br>--引自“中青网”http://www.cycnet.com.cn/<br><br>[1]汪伦：桃花潭附近居民。<br>[2]踏歌：边唱歌边用脚踏地作节拍。<br>[3]桃花潭：在今安徽泾县。<br><br>　　这是一首千古传诵的告别诗。李白正要乘船离开桃花潭，好友汪伦深情地唱着歌赶来送行。<br><br>　　天宝十四载（755），李白从秋浦（今安徽贵池）前往泾县（今属安徽）游桃花潭，当地人汪伦常酿美酒款待他。临走时，汪伦又来送行，李白作了这首诗留别。<br><br>　　诗的前半是叙事：先写要离去者，继写送行者，展示一幅离别的画面。起句「乘舟」表明是循水道；「将欲行」表明是在轻舟待发之时。这句使我们仿佛见到李白在正要离岸的小船上向人们告别的情景。<br><br>　　送行者是谁呢？次句却不象首句那样直叙，而用了曲笔，只说听见歌声。一群村人踏地为节拍，边走边唱前来送行了。这似出乎李白的意料，所以说「忽闻」而不用「遥闻」。这句诗虽说得比较含蓄，只闻其声，不见其人，但人已呼之欲出。<br><br>　　诗的后半是抒情。第三句遥接起句，进一步说明放船地点在桃花潭。「深千尺」既描绘了潭的特点，又为结句预伏一笔。<br><br>　　桃花潭水是那样的深湛，更触动了离人的情怀，难忘汪伦的深情厚意，水深情深自然地联系起来。结句迸出「不及汪伦送我情」，以比物手法形象性地表达了真挚纯洁的深情。潭水已「深千尺」，那么汪伦送李白的情谊更有多少深呢？耐人寻味。清<a href="/chaxun/zuozhe/718.html" target="_blank">沈德潜</a>很欣赏这一句，他说：「若说汪伦之情比于潭水千尺，便是凡语。妙境只在一转换间。」（《唐诗别裁》）显然，妙就妙在「不及」二字，好就好在不用比喻而采用比物手法，变无形的情谊为生动的形象，空灵而有余味，自然而又情真。<br><br>　　这首小诗，深为后人赞赏，「桃花潭水」就成为后人抒写别情的常用语。由于这首诗，使桃花潭一带留下许多优美的传说和供旅游访问的遗迹，如东岸题有「踏歌古岸」门额的踏歌岸阁，西岸彩虹罔石壁下的钓隐台等等。<br><br>　　（宛敏灏 宛新彬）<br>             </div>
+        </div>
+                <div id="pre_next_div">
+            <div id="pre_item">
+                                    <a href="/chaxun/list/2875.html">
+                        <div class="pre_text_text">上一首</div>
+                        <div>《望庐山瀑布》</div>
+                    </a>
+                            </div>
+            <div id="next_item">
+                                <a href="/chaxun/list/26528.html">
+                    <div class="pre_text_text">下一首</div>
+                    <div>《行路难·有耳莫洗颍川水》</div>
+                </a>
+                            </div>
+            <div style="clear: both"></div>
+        </div>
+            </div>
