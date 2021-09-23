@@ -23,7 +23,7 @@ python remove_long_sentence.py test_data/long_sentence.en test_data/long_sentenc
 python language_detect.py test_data/language.en test_data/language.zh test_data/language.en.out test_data/language.zh.out test_data/language.err en zh
 
 # 8 测试删除、替换特殊字符
-# python remove_special_symbol.py test_data/special_symbol.enzh test_data/special_symbol.enzh.out 
+# python remove_special_symbol.py
 
 
 
